@@ -12,8 +12,6 @@
 /cypress/screenshots/
 /cypress/videos/
 /cypress.config.js
-/cypress/fixtures/
-/cypress/suport/
 
 # Logs
 logs
