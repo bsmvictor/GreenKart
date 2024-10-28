@@ -1,6 +1,6 @@
 /// <reference = cypress >
 
-describe("Testes de adição, remoção, busca e valores", () => {
+describe("Testes de adição, busca e valores", () => {
 
     it("Teste de adição de itens na sacola", () => {
         let itensCount = 0;
